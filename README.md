@@ -22,4 +22,21 @@ In essence, this repository may serve as a repository for researchers and innova
    ```bash
    git clone https://github.com/turna1/GenAI.git
    
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e1ngmVpe8Gx5TfGQ71HYbtyLrULxAcFX?usp=sharing)
+
+## Contribution
+
+Your insights are valuable! If you're enthusiastic about expanding the current state of Generative AI for dataset creation, we're all ears. This could be in the form of new research papers, enhanced code models, dataset examples, or tutorial improvements. To begin contributing, please go through our [Contribution Guidelines](CONTRIBUTING.md).
+
+## License
+
+This project operates under the MIT License. For more details, please see [LICENSE](LICENSE).
+
+## Contact
+
+For collaborations, queries, or suggestions, please contact:
+
+- **Name**: Rahatara Ferodusi
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rahatara-ferdousi-764405118/)
+
+
