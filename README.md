@@ -16,6 +16,8 @@ In essence, this repository may serve as a repository for researchers and innova
 ## Features
 
 - **Research Papers**: A curated collection of papers and articles pivotal to understanding the intricate layers of Generative AI, especially in the context of complex data generation.
+Sure, here are the links to the papers you mentioned, formatted for a GitHub README file:
+
 1. [Image Data Augmentation Approaches: A Comprehensive Survey](https://arxiv.org/abs/2301.02830) by Kumar, Teerath et al., 2023
 2. [Text Data Augmentation for Deep Learning](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00492-0), Journal of Big Data, 2021
 3. [A survey of automated data augmentation algorithms for deep learning](https://link.springer.com/article/10.1007/s10115-023-01853-2), Knowledge and Information Systems, 2023
@@ -24,8 +26,13 @@ In essence, this repository may serve as a repository for researchers and innova
 6. [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691) by Kingma, Diederik P. and Welling, Max, 2019
 7. [Diffusion Priors In Variational Autoencoders](https://arxiv.org/abs/2106.15671) by Wehenkel, Antoine and Louppe, Gilles, 2021
 8. [Improving VAE based molecular representations for compound property prediction](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00648-x), Journal of Cheminformatics, 2022
-
-Please note that the last four papers do not have URLs provided in your message, so I couldn't provide the links for them.
+9. [Synthetic Data Generation for Steel Defect Detection and Classification Using Deep Learning](https://www.mdpi.com/2073-8994/13/7/1176), Symmetry, 2021
+10. [Segmentation-Based Deep-Learning Approach for Surface-Defect Detection](https://arxiv.org/abs/1903.08536), arXiv preprint arXiv:1903.08536, 2019
+11. [Defect classification on limited labeled samples with multiscale](https://link.springer.com/article/10.1007/s10489-021-02404-z), Applied Intelligence, 2021
+12. [A survey of defect detection applications based on generative adversarial networks](https://ieeexplore.ieee.org/document/9696145), IEEE Access, 2022
+13. [Synthetic data augmentation for surface defect detection and classification using deep learning](https://link.springer.com/article/10.1007/s10845-022-01884-z), Journal of Intelligent Manufacturing, 2022
+14. [Synthetic Defect Generation for Display Front-of-Screen Quality Inspection: A Survey](https://arxiv.org/abs/2203.03429), arXiv preprint arXiv:2203.03429, 2022
+15. [Deep-learning-based computer vision system for surface-defect detection](https://link.springer.com/chapter/10.1007%2F978-3-030-34995-0_45), Computer Vision Systems: 12th International Conference, ICVS 2019, Thessaloniki, Greece, September 23--25, 2019, Proceedings 12
   
 - **Code**: Colab Notebook, Reproducible code segments, tailored for various Generative AI models optimized for creating synthetic datasets.
   
