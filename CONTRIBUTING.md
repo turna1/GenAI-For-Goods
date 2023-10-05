@@ -44,5 +44,5 @@ IMPORTANT: In service of this goal, GenAI community members should be dedicated 
 
 ## Additional Notes
 
-Any additional notes or information can go here.
+GenAI community members should be dedicated to recognizing and respecting the work of others by always referring to the linked paper when using the code from this repository in their paper, project, or any other form of dissemination.
 
