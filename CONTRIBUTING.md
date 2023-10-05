@@ -13,8 +13,8 @@ IMPORTANT: In service of this goal, GenAI community members should be dedicated 
 
 ### Reporting Bugs
 
-- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/turna1/GenAI/issues).
-- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/turna1/GenAI/issues/new).
+- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/turna1/GenAI-For-Goods/issues).
+- If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/turna1/GenAI-For-Goods/issues/new).
 
 ### Suggesting Enhancements
 
