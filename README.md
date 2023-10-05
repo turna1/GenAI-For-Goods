@@ -37,6 +37,8 @@ This project operates under the MIT License. For more details, please see [LICEN
 For collaborations, queries, or suggestions, please contact:
 
 - **Name**: Rahatara Ferodusi
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rahatara-ferdousi-764405118/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/rahatara-ferdousi-764405118/)
+
+
 
 
