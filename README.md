@@ -1,8 +1,7 @@
 # Generative AI for Challenging Dataset Generation
 
 ## Demo
-[![Watch the video](https://github.com/turna1/GenAI/commit/92ab0fd38e742de48f113030a468410feba0b9eb#commitcomment-129182400)]
-
+[Click here to view the demo video](https://github.com/turna1/GenAI/blob/main/vdemo.mp4)
 
 
 ## Overview
@@ -16,8 +15,7 @@ In essence, this repository may serve as a repository for researchers and innova
 ## Features
 
 - **Research Papers**: A curated collection of papers and articles pivotal to understanding the intricate layers of Generative AI, especially in the context of complex data generation.
-Sure, here are the links to the papers you mentioned, formatted for a GitHub README file:
-
+### References:
 1. [Image Data Augmentation Approaches: A Comprehensive Survey](https://arxiv.org/abs/2301.02830) by Kumar, Teerath et al., 2023
 2. [Text Data Augmentation for Deep Learning](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00492-0), Journal of Big Data, 2021
 3. [A survey of automated data augmentation algorithms for deep learning](https://link.springer.com/article/10.1007/s10115-023-01853-2), Knowledge and Information Systems, 2023
@@ -33,6 +31,7 @@ Sure, here are the links to the papers you mentioned, formatted for a GitHub REA
 13. [Synthetic data augmentation for surface defect detection and classification using deep learning](https://link.springer.com/article/10.1007/s10845-022-01884-z), Journal of Intelligent Manufacturing, 2022
 14. [Synthetic Defect Generation for Display Front-of-Screen Quality Inspection: A Survey](https://arxiv.org/abs/2203.03429), arXiv preprint arXiv:2203.03429, 2022
 15. [Deep-learning-based computer vision system for surface-defect detection](https://link.springer.com/chapter/10.1007%2F978-3-030-34995-0_45), Computer Vision Systems: 12th International Conference, ICVS 2019, Thessaloniki, Greece, September 23--25, 2019, Proceedings 12
+
   
 - **Code**: Colab Notebook, Reproducible code segments, tailored for various Generative AI models optimized for creating synthetic datasets.
   
