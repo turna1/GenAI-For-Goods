@@ -1,4 +1,4 @@
-# Contributing to [GenAI]
+# Contributing to GenAI
 
 First off, thanks for taking the time to contribute! 🎉👍
 
@@ -7,6 +7,7 @@ The following is a set of guidelines for contributing to this project. These are
 ## Code of Conduct
 
 By participating in this project, you are expected to uphold our [Code of Conduct](CODE_OF_CONDUCT.md).
+IMPORTANT: In service of this goal, GenAI community members should be dedicated to recognizing and respecting the work of others by always referring to the linked paper when using the code from this repository in their paper, project, or any other form of dissemination.
 
 ## How Can I Contribute?
 
