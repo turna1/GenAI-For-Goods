@@ -21,3 +21,5 @@ In essence, this repository may serve as a repository for researchers and innova
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/turna1/GenAI.git
+   
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
