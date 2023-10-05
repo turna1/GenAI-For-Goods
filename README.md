@@ -14,7 +14,7 @@ Our aim is to serve as a comprehensive resource for researchers, data scientists
   
 - **Datasets**: Links and references to datasets optimal for training and testing multimodal generative models.
   
-- **Tutorials**: Step-by-step guides and tutorials simplifying complex concepts, making it easier for beginners to start their journey.
+- **Colab Notebook**: Step-by-step guides and tutorials simplifying complex concepts, making it easier for beginners to start their journey.
 
 ## Getting Started
 
