@@ -48,6 +48,8 @@ COMING SOON
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/turna1/GenAI.git
+
+2. **Copy and edit the Colab notebook directly**:  
    
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e1ngmVpe8Gx5TfGQ71HYbtyLrULxAcFX?usp=sharing)
 
