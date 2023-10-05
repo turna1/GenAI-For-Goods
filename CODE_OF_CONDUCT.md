@@ -1,4 +1,4 @@
-# Code of Conduct for [Your Repository Name]
+# Code of Conduct for GenAI-For-Goods
 
 ## 1. Purpose
 
