@@ -6,6 +6,10 @@ The core objective of this repository is to delve deep into the realm of Generat
 
 In essence, this repository may serve as a repository for researchers and innovators to modify, fine-tune, and explore the proposed/ applied approaches further. Our aim is to produce more diverse synthetic datasets that can replicate the complexity of real-world data landscapes.
 
+## Demo
+[![Watch the video](https://drive.google.com/uc?export=view&id=YOUR_GOOGLE_DRIVE_IMAGE_ID_HERE)]([https://drive.google.com/file/d/YOUR_GOOGLE_DRIVE_VIDEO_ID_HERE/view?usp=sharing](https://drive.google.com/file/d/1jGYD4p1r15XzKr8p2RDUvdM6O_4GOxA4/view?usp=sharing))
+
+
 ## Features
 
 - **Research Papers**: A curated collection of papers and articles pivotal to understanding the intricate layers of Generative AI, especially in the context of complex data generation.
