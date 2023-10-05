@@ -1,7 +1,7 @@
 # Generative AI for Challenging Dataset Generation
 
 ## Demo
-[![Watch the video](https://drive.google.com/uc?export=view&id=YOUR_GOOGLE_DRIVE_IMAGE_ID_HERE)]([https://drive.google.com/file/d/1uNZQKcPF3lPyiB954-Il_MnQ0ytqEuQk/view?usp=sharing](https://drive.google.com/file/d/1jGYD4p1r15XzKr8p2RDUvdM6O_4GOxA4/view?usp=sharing))
+[![Watch the video](https://www.iconpacks.net/icons/1/free-video-icon-818-thumb.png)]([https://drive.google.com/file/d/1uNZQKcPF3lPyiB954-Il_MnQ0ytqEuQk/view?usp=sharing](https://drive.google.com/file/d/1jGYD4p1r15XzKr8p2RDUvdM6O_4GOxA4/view?usp=sharing))
 
 
 ## Overview
