@@ -1,7 +1,7 @@
-# Generative AI for Challenging Dataset Generation
+# Generative AI for Challenging Data/Content Generation
 
 ## Demo
-[Click here to view the demo video](https://github.com/turna1/GenAI/blob/main/vdemo.mp4)
+[Click here to view the synthetic dataset generation demo video](https://github.com/turna1/GenAI/blob/main/vdemo.mp4)
 
 
 ## Overview
