@@ -1,20 +1,20 @@
-# Generative AI for Multimodal Data
+# Generative AI for Challenging Dataset Generation
 
 ## Overview
 
-This repository is dedicated to fostering research, exploration, and replication in the realm of Generative AI for multimodal data. Multimodal data is an exciting field that encompasses information processing in multiple modalities, and when combined with Generative AI, there are endless possibilities for innovation.
+The core objective of this repository is to delve deep into the realm of Generative AI, focusing primarily on its capability to generate synthetic datasets. This is especially beneficial in scenarios where traditional data collection is not only challenging but potentially impossible for instance- defect data, and confidential data. Through advanced Generative AI techniques, our mission is to bridge this gap and provide solutions where creativity and synthesis in data generation are applicable.
 
-Our aim is to serve as a comprehensive resource for researchers, data scientists, and enthusiasts looking to dive deep into the world of Generative AI, with a specific emphasis on multimodal data.
+In essence, this repository may serve as a repository for researchers and innovators to modify, fine-tune, and explore the proposed/ applied approaches further. Our aim is to produce more diverse synthetic datasets that can replicate the complexity of real-world data landscapes.
 
 ## Features
 
-- **Research Papers**: Coming soon...
+- **Research Papers**: A curated collection of papers and articles pivotal to understanding the intricate layers of Generative AI, especially in the context of complex data generation.
   
-- **Code Snippets**: Reproducible code snippets, catering to various Generative AI models tailored for multimodal data processing.
+- **Code**: Colab Notebook, Reproducible code segments, tailored for various Generative AI models optimized for creating synthetic datasets.
   
-- **Datasets**: Links and references to datasets optimal for training and testing multimodal generative models.
+- **Datasets**: References to existing datasets and examples of synthetic datasets generated using the methods proposed herein.
   
-- **Colab Notebook**: Step-by-step guides and tutorials simplifying complex concepts, making it easier for beginners to start their journey.
+- **Tutorials**: Comprehensive guides and walkthroughs demystifying the technical facets of Generative AI for dataset creation.
 
 ## Getting Started
 
