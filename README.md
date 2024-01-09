@@ -42,7 +42,22 @@ In essence, this repository may serve as a repository for researchers and innova
 COMING SOON
 
 --**Published Papers** Scholarly contribution by our team
-COMING SOON
+. The latest paper that used GenAI based approach to handle the limited sample issues and applied transfer learned ViT models for the classification - https://arxiv.org/abs/2401.00393
+
+5: The paper where we found potential and drawbacks of transfer learned ensembled CNN and recommended transfer learned ViT - https://arxiv.org/abs/2311.14824
+
+4: The survey where we found the gaps, challenges, and requirements to resolve the scarce data - https://ieeexplore.ieee.org/abstract/document/10292659
+
+
+2-3: The preliminary contributions where we came up with the conceptualized framework were limited only to overfitted binary classification-
+
+The RailTwin Framework was introduced here:
+https://ieeexplore.ieee.org/abstract/document/9926529
+
+The necessity of reusable models was realized here:
+https://ieeexplore.ieee.org/abstract/document/9926693
+
+1: An extra book chapter: It talks about AI in DT for health and well-being; but we could use the takeaways in our next research because identifying defects was also a diagnostic problem. https://www.sciencedirect.com/science/article/abs/pii/B9780323991636000111
 ## Getting Started
 
 1. **Clone the Repository**:  
