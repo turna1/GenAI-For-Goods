@@ -10,7 +10,7 @@
      - 
 **Challenges in Synthetic Data Generation**
    - Despite its benefits, creating high-quality synthetic data is a complex, ongoing technical challenge.
-    - limited data availability and privacy concern
+    - limited data availability and privacy concerns
     - ensuring quality and fairness
 
  **"What Makes Good Synthetic Data?":**
@@ -19,10 +19,22 @@
   1. **Fidelity**: Concerns the quality of synthetic samples. It assesses how realistic the generated samples appear. (by precision)
   2. **Diversity**: Examines if the generative model can produce a wide variety of realistic samples rather than a limited set of high-quality ones.
   3. **Overfitting**: Checks if the model has simply memorized the training data, which can result in seemingly high fidelity and diversity but actually indicates a lack of true learning. Overfitting is also a concern for privacy in medical applications.
+
+   #Synthetic Data Quality Evaluation#
+To evaluate synthetic data quality, the three primary methods are:
+
+1. **Machine Learning Utility**: This approach focuses on the practical usefulness of synthetic data in machine learning contexts. It involves training various classifiers with and without the synthetic data, then comparing their accuracy. The idea is to assess how well the synthetic data contributes to the performance of machine learning models. A key aspect of this method is ensuring that the classifiers are optimized for both the original and synthetic datasets.
+
+2. **Statistical Similarity**: This method assesses whether synthetic data can serve as a viable substitute for original data by comparing their statistical properties. Tools such as Kullback-Leibler (KL) divergence, Jensen-Shannon (JS) divergence, Wasserstein distance, and Pairwise Correlation Difference (PCD) are used to measure how closely the synthetic data mimics the statistical characteristics of the original data. These measures help determine the extent to which the synthetic data retains the essential properties of the original dataset.
+
+3. **Privacy Preservability**: The third method focuses on the privacy aspects of synthetic data. This is crucial when the original data contains sensitive information. Metrics such as Distance to Closest Record (DCR) and Nearest Neighbor Distance Ratio (NNDR) are used to evaluate how well the synthetic data preserves privacy. A high DCR value or a certain pattern in NNDR can indicate that the synthetic data maintains a good balance between being useful and not compromising the privacy of the individuals represented in the original dataset.
+
+Together, these methods provide a comprehensive framework for evaluating synthetic data, ensuring that it is useful for machine learning applications, statistically representative of the original data, and respectful of privacy concerns.
+
  
-**Synthetic Data Evaluation":**
+**Synthetic Data Generation  Evaluation":**
 1. Build Data representation (Reconstructed Image)- learn embedding that will facilitate the evaluation
-2. Compare Data Representation ( Reconstructed VS Original)- metrics that measure  Fidelity, Diversity and Overfitting.
+2. Compare Data Representation ( Reconstructed VS Original)- metrics that measure  Fidelity, Diversity, and Overfitting.
 
 - **Order of Evaluation**:
   First 2 then 1.
@@ -66,6 +78,11 @@ https://openreview.net/pdf?id=6oVAzFsHLFK
 Minimize the privacy metric; so that the latent information in the generated data is different than the original one.
 [source: https://arxiv.org/pdf/2301.07573v1.pdf]
 
+Possible research questions:
+
+1. How can the VAE based approach be modified to generate better examples to improve
+classification accuracy?
+2. How can algorithmic fairness be affected by generating synthetic data examples?
 
 Papers: 
 1. **Beyond Privacy: Navigating the Opportunities and
