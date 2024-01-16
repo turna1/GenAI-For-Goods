@@ -91,3 +91,23 @@ https://arxiv.org/pdf/2304.03722.pdf
 2. **Synthetic data for privacy-preserving clinical risk
 prediction**
 https://www.medrxiv.org/content/10.1101/2023.05.18.23290114v1.full.pdf
+
+
+
+Phd symposiums:
+
+https://dl.acm.org/doi/10.1145/3581783.3613435
+
+
+https://uwaterloo.ca/news/setting-standards-and-unlocking-potential-synthetic-data
+
+
+https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=3958&context=all_dissertations
+
+
+https://ucla-synthetic-data.github.io/
+
+https://sites.google.com/g.ucla.edu/talkinfo/kn_1?authuser=0
+
+
+https://theaisummer.com/iccv-2023/
