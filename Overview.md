@@ -111,3 +111,8 @@ https://sites.google.com/g.ucla.edu/talkinfo/kn_1?authuser=0
 
 
 https://theaisummer.com/iccv-2023/
+
+Tackling scarce data: https://www.youtube.com/watch?v=XxVwvrfJS5s
+Survey on scarce data: https://journalofbigdata.springeropen.com/articles/10.1186/s40537-023-00727-2
+Data scarcity and Synthetic data: https://www.infoq.com/articles/overcoming-privacy-challenges-synthetic-data/
+Syn Data: https://www.vanderschaar-lab.com/synthetic-data-breaking-the-data-logjam-in-machine-learning-for-healthcare/
