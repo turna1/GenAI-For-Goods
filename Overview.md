@@ -98,6 +98,8 @@ Phd symposiums:
 
 https://dl.acm.org/doi/10.1145/3581783.3613435
 
+https://blog.floydhub.com/n-shot-learning/
+
 
 https://uwaterloo.ca/news/setting-standards-and-unlocking-potential-synthetic-data
 
